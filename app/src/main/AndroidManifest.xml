@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.example.studentacademiccalendar"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+
+    <application
+        android:label="StudentAcademicCalendar"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:allowBackup="true">
+
+        <activity android:name=".CalendarViewActivity" />
+        <activity android:name=".ViewEventsActivity" />
+        <activity android:name=".AddEventActivity" />
+
+        <activity android:name=".MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".ReminderReceiver" android:exported="true" />
+
+    </application>
+
+</manifest>
