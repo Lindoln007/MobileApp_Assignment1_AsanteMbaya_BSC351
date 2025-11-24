@@ -37,7 +37,7 @@ It features a robust **notification system** that works even when the app is clo
 
 | Main Screen | Add Event | Event Details |
 |:---:|:---:|:---:|
-| <!-- ![Main Screen](screenshots/main.png) --> <br> ![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/97cf0041af86528cfefe73043cdbd349be012beb/Screenshot_2025-11-23-19-22-04-676_com.example.studentacademiccalendar.jpg) | <!-- ![Add Event](screenshots/add.png) --> <br> *(![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/87fdd5e9cbd9c0ac06b7a42d33e088449dcd34d3/Screenshot_2025-11-23-19-22-08-433_com.example.studentacademiccalendar.jpg))* | <!-- ![Details](screenshots/details.png) --> <br> *(Place Screenshot Here)* |
+| <!-- ![Main Screen](screenshots/main.png) --> <br> ![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/97cf0041af86528cfefe73043cdbd349be012beb/Screenshot_2025-11-23-19-22-04-676_com.example.studentacademiccalendar.jpg) | <!-- ![Add Event](screenshots/add.png) --> <br> *(![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/87fdd5e9cbd9c0ac06b7a42d33e088449dcd34d3/Screenshot_2025-11-23-19-22-08-433_com.example.studentacademiccalendar.jpg))* | <!-- ![Details](screenshots/details.png) --> <br> *(![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/c3181e39b4fd3bbfeb620fb373597f7be71b10e7/Screenshot_2025-11-24-19-54-53-147_com.example.studentacademiccalendar.jpg))* |
 
 ## 🛠 Technical Stack
 
