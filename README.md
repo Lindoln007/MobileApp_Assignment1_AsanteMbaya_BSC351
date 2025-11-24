@@ -37,7 +37,7 @@ It features a robust **notification system** that works even when the app is clo
 
 | Main Screen | Add Event | Event Details |
 |:---:|:---:|:---:|
-| <!-- ![Main Screen](screenshots/main.png) --> <br> *(![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/97cf0041af86528cfefe73043cdbd349be012beb/Screenshot_2025-11-23-19-22-04-676_com.example.studentacademiccalendar.jpg)* | <!-- ![Add Event](screenshots/add.png) --> <br> *(Place Screenshot Here)* | <!-- ![Details](screenshots/details.png) --> <br> *(Place Screenshot Here)* |
+| <!-- ![Main Screen](screenshots/main.png) --> <br> ![image alt](https://github.com/Lindoln007/MobileApp_Assignment1_AsanteMbaya_BSC351/blob/97cf0041af86528cfefe73043cdbd349be012beb/Screenshot_2025-11-23-19-22-04-676_com.example.studentacademiccalendar.jpg) | <!-- ![Add Event](screenshots/add.png) --> <br> *(Place Screenshot Here)* | <!-- ![Details](screenshots/details.png) --> <br> *(Place Screenshot Here)* |
 
 ## 🛠 Technical Stack
 
